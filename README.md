@@ -1,40 +1,44 @@
-## Hi there 👋
+## Olá, eu sou o Lucas Simon 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/37303452-2bb3-4f34-a5a1-30b2df01b5e6" alt="Animação do personagem surpreso" width="100"/>
+  <img src="https://github.com/user-attachments/assets/37303452-2bb3-4f34-a5a1-30b2df01b5e6" alt="Ilustração de personagem em estilo pixel art" width="100"/>
 </p>
 
-I am Lucas Simon, people call me Simon, a self-taught programmer. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+## Sobre mim
 
+Sou programador autodidata, conhecido como Simon, com foco em construção de produtos digitais robustos e escaláveis.
+
+## Foco atual
+
+Estou disponível para colaborar em **projetos de backend e APIs**.
+Se você busca alguém para desenvolver serviços confiáveis, integrações e arquitetura de backend moderna, vamos conversar.
+
+## Tecnologias principais
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
+
+## Contato
+
+[![Site](https://img.shields.io/badge/s1m0n.com.br-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://s1m0n.com.br)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/lucasimonmendes-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lucasimonmendes/)
-[![X](https://img.shields.io/badge/osimnao-%23000000.svg?logo=X&logoColor=white)](https://x.com/osimnao )
-[![Instagram](https://img.shields.io/badge/s1m0n.tech-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s1m0n.tech)
-[![YouTube](https://img.shields.io/badge/s1m0n-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@s1m0n-dev)
-[![Gmail Badge](https://img.shields.io/badge/-lucasimonmendes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasimonmendes@gmail.com)](mailto:lucasimonmendes@gmail.com)
+[![X](https://img.shields.io/badge/osimnao-000000.svg?logo=x&logoColor=white)](https://x.com/osimnao)
+[![Instagram](https://img.shields.io/badge/s1m0n.tech-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/s1m0n.tech)
+[![YouTube](https://img.shields.io/badge/s1m0n-FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@s1m0n-dev)
+[![E-mail](https://img.shields.io/badge/E--mail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasimonmendes@gmail.com)
 
+## Estatísticas
 
-## ⚡ Technologies
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasimonmendes&count_private=true&show_icons=true&include_all_commits=true)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-00599C?style=flat-square&logo=tailwindcss)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Nexjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next)
-![Supabase](https://img.shields.io/badge/-supabase-black?style=flat-square&logo=supabase)
-![Stripe](https://img.shields.io/badge/-stripe-black?style=flat-square&logo=stripe)
-![Shadcnui](https://img.shields.io/badge/-shadcnui-black?style=flat-square&logo=shadcnui)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lucasimonmendes&count_private=true&show_icons=true&include_all_commits=true)  <img src="https://github.com/user-attachments/assets/94c6307c-0de2-4a7c-b4b9-b3e30229f381" alt="Animação do personagem surpreso" width="195"/>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lucasimonmendes.lucasimonmendes)
+![Contador de visitantes](https://visitor-badge.laobi.icu/badge?page_id=lucasimonmendes.lucasimonmendes)
